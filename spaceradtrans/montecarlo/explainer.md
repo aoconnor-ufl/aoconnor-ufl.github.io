@@ -7,7 +7,7 @@ Developer: Istituto Nazionale di Fisica Nucleare (INFN) / European Organization 
 
 Country: European
 
-Link: (http://www.fluka.org/fluka.php)
+Link: [http://www.fluka.org/fluka.php](http://www.fluka.org/fluka.php)
 
 ### Geant4
 Name: GEometry ANd Tracking
@@ -16,7 +16,7 @@ Developer: European Organization for Nuclear Research (CERN)
 
 Country: European
 
-Link: (https://geant4.web.cern.ch/)
+Link: [https://geant4.web.cern.ch/](https://geant4.web.cern.ch/)
 
 ### MCNP
 Name: Monte Carlo N-Particle
@@ -25,7 +25,7 @@ Developer: Los Alamos National Laboratory (LANL)
 
 Country: USA
 
-Link: (https://mcnp.lanl.gov/)
+Link: [https://mcnp.lanl.gov/](https://mcnp.lanl.gov/)
 
 ### OpenMC
 Name: Open Monte Carlo
@@ -34,7 +34,7 @@ Developer: Massachusetts Institute of Technology
 
 Country: USA
 
-Link: (https://openmc.org/)
+Link: [https://openmc.org/](https://openmc.org/)
 
 Unique: uses Python interpreter to build input deck (may be a good introductory code)
 
@@ -47,6 +47,6 @@ Developer: several Japanese institutes under the auspices of the Japan Atomic En
 
 Country: Japan
 
-Link: (https://phits.jaea.go.jp/index.html)
+Link: [https://phits.jaea.go.jp/index.html](https://phits.jaea.go.jp/index.html)
 
 

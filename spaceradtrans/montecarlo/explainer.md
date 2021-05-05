@@ -28,7 +28,7 @@
 *Link*: <https://mcnp.lanl.gov/>
 
 ### OpenMC
-*Name: Open Monte Carlo
+*Name*: Open Monte Carlo
 
 *Developer*: Massachusetts Institute of Technology
 

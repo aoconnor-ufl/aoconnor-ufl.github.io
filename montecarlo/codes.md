@@ -27,12 +27,15 @@
 *Link*: <https://mcnp.lanl.gov/>
 
 **note that the MCNP license is restricted**
+
 The executable-only version is preferred, especially for non-US citizens.
 A fee may be charged to obtain MCNP, and it is only available at <https://rsicc.ornl.gov/default.aspx>
 
 ### MCNP-specific resources
 A must-read is the MCNP Primer: [click to download PDF](https://www.mne.k-state.edu/~jks/MCNPprmr.pdf)
+
 Medical physics variant of the MCNP Primer: [click to download PDF](http://cmpwg.ans.org/mcnp/primer.pdf)
+
 Criticality calculations variant of the MCNP Primer: [access here](https://www.osti.gov/biblio/10171566-vsLlpi/native/)
 
 ## OpenMC
@@ -57,4 +60,7 @@ Criticality calculations variant of the MCNP Primer: [access here](https://www.o
 
 *Link*: <https://phits.jaea.go.jp/index.html>
 
+*Limitations*: cannot simulate criticality
+
+*License*: available worldwide
 

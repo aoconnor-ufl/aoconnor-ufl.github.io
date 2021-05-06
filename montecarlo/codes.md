@@ -1,6 +1,5 @@
-# Resources for learning Monte Carlo methods for radiation transport
-## Commonly used Monte Carlo radiation transport codes
-### FLUKA
+# Commonly used Monte Carlo radiation transport codes
+## FLUKA
 *Name*: FLUktuierende KAskade "Fluctuating Cascade"
 
 *Developer*: Istituto Nazionale di Fisica Nucleare (INFN) / European Organization for Nuclear Research (CERN)
@@ -9,7 +8,7 @@
 
 *Link*: <http://www.fluka.org/fluka.php>
 
-### Geant4
+## Geant4
 *Name*: GEometry ANd Tracking
 
 *Developer*: European Organization for Nuclear Research (CERN)
@@ -18,7 +17,7 @@
 
 *Link*: <https://geant4.web.cern.ch/>
 
-### MCNP
+## MCNP
 *Name*: Monte Carlo N-Particle
 
 *Developer*: Los Alamos National Laboratory (LANL)
@@ -27,7 +26,16 @@
 
 *Link*: <https://mcnp.lanl.gov/>
 
-### OpenMC
+**note that the MCNP license is restricted**
+The executable-only version is preferred, especially for non-US citizens.
+A fee may be charged to obtain MCNP, and it is only available at <https://rsicc.ornl.gov/default.aspx>
+
+### MCNP-specific resources
+A must-read is the MCNP Primer: [click to download PDF](https://www.mne.k-state.edu/~jks/MCNPprmr.pdf)
+Medical physics variant of the MCNP Primer: [click to download PDF](http://cmpwg.ans.org/mcnp/primer.pdf)
+Criticality calculations variant of the MCNP Primer: [access here](https://www.osti.gov/biblio/10171566-vsLlpi/native/)
+
+## OpenMC
 *Name*: Open Monte Carlo
 
 *Developer*: Massachusetts Institute of Technology
@@ -40,7 +48,7 @@
 
 *Limitations*: only simulates neutrons and photons
 
-### PHITS
+## PHITS
 *Name*: Particle and Heavy Ion Transport System
 
 *Developer*: several Japanese institutes under the auspices of the Japan Atomic Energy Agency (JAEA)

@@ -7,7 +7,7 @@ YouTube playlist: <https://youtube.com/playlist?list=PLW2rUv07RJH-omA8duhcF8L6xY
 ## Review
 [Overview of Main Radiation Transport Codes](https://doi.org/10.5194/gi-2020-7) *pre-print* **includes non-maintained codes**
 
-# Theses and dissertation's
+# Theses and dissertations
 [NASA ASTRONAUT DOSIMETRY: IMPLEMENTATION OF SCALABLE HUMAN PHANTOMS AND BENCHMARK COMPARISONS OF DETERMINISTIC VERSUS MONTE CARLO RADIATION TRANSPORT](https://ufdc.ufl.edu/UFE0044848/00001)
 
 # Technical reports

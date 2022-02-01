@@ -41,8 +41,10 @@ A **score** would be the energy deposited (dose).
 
 
 ![tally-1](https://user-images.githubusercontent.com/78624429/152056666-e0407e1f-c786-4833-a78f-2a8a27d25e5c.svg)
+
 Only the indicated portion of the gamma’s path through the water tank contributes to the tally.
 ![tally-2](https://user-images.githubusercontent.com/78624429/152056672-2df5e09b-d774-45f1-9bba-7ef43f838613.svg)
+
 However, the code must track all other particles in case a delta ray (secondary radiation) crosses through water tank
 ![tally-3](https://user-images.githubusercontent.com/78624429/152056677-1ed2d261-95c3-499f-8561-faccd69b2ec7.svg)
 

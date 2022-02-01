@@ -8,10 +8,10 @@
 ### What Monte Carlo radiation transport codes are available?
 [See here](./montecarlo/codes.html)
 
-## How are deterministics methods applied to radiation transport?
+## How are deterministic methods applied to radiation transport?
 [Learn here](./deterministic/explainer.html)
 
-### What Monte Carlo radiation transport codes are available?
+### What deterministic radiation transport codes are available?
 [See here](./deterministic/codes.html)
 
 ## What jargon should you know?

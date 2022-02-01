@@ -2,11 +2,17 @@
 ## What is radiation transport?
 [Learn here](./transport.html)
 
-## What is the Monte Carlo method as it applies to radiation transport?
+## How are Monte Carlo methods applied to radiation transport?
 [Learn here](./montecarlo/explainer.html)
 
 ### What Monte Carlo radiation transport codes are available?
 [See here](./montecarlo/codes.html)
+
+## How are deterministics methods applied to radiation transport?
+[Learn here](./deterministic/explainer.html)
+
+### What Monte Carlo radiation transport codes are available?
+[See here](./deterministic/codes.html)
 
 ## What jargon should you know?
 Automated computation of radiation transport evolved in the 1940s and 50s, so some of the terminology reflects that period rather than modern usage.

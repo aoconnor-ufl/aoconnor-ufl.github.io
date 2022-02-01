@@ -1,4 +1,6 @@
 # So you want to run a transport code for space radiation?
+n.b. this primer focuses on aerospace environments, so certain codes or topics (_e.g._ criticality) may be abridged or neglected
+
 ## What is radiation transport?
 [Learn here](./transport.html)
 

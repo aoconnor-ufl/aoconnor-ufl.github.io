@@ -1,3 +1,9 @@
+---
+layout: default
+title: Collated resources
+---
+
+
 # Videos
 Playlist of relevant videos on YouTube collated by [Andrew O'Connor](https://github.com/aoconnor-ufl): <https://youtube.com/playlist?list=PLW2rUv07RJH-omA8duhcF8L6xYAIzkbOb>
 

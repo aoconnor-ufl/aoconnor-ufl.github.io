@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Monte Carlo radiation transport codes
 ---
 

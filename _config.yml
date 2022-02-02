@@ -1,4 +1,4 @@
-theme: minima
+theme: MichaelCurrin/fractal
 layout: default
 title: The Space Radiation Transport Primer
 description: Collating resources to understand, to operate, and to interpret radiation transport codes in the context of aerospace environments.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: What is radiation transport?
+---
+
 # A brief explanation
 ## Random walk
 ![random walk animation](https://upload.wikimedia.org/wikipedia/commons/9/9b/Random_Walk_Simulator.gif)[^1]

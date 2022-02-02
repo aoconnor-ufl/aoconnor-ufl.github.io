@@ -1,3 +1,8 @@
+---
+layout: default
+title: Monte Carlo methods
+---
+
 # A brief explanation
 ![animated Monte Carlo calcuation of pi](https://upload.wikimedia.org/wikipedia/commons/8/84/Pi_30K.gif)[^1]
 

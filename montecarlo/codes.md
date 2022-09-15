@@ -68,3 +68,6 @@ Criticality calculations variant of the MCNP Primer: [access here](https://www.o
 
 *License*: available worldwide
 
+*Additional*: [Tutorial playlist on the JAEA YouTube channel](https://youtube.com/playlist?list=PLe8Wrr-sE8vy-ygWoAqWVrvK89PfxUFYO)
+and [Official forum for PHITS community](https://meteor.nucl.kyushu-u.ac.jp/phitsforum/)
+
